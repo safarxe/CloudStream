@@ -1,0 +1,1092 @@
+[
+    {
+        "url": "https://raw.githubusercontent.com/safarxe/CloudStream/builds/4KFilmIzlesene.cs3",
+        "status": 1,
+        "version": 6,
+        "name": "4KFilmIzlesene",
+        "internalName": "4KFilmIzlesene",
+        "authors": [
+            "nikyokki"
+        ],
+        "description": "En yeni ve sorunsuz \u26a1  Full HD Film izle keyfi her yerde sizinle ! 4K ve 1080p online film izleme fark\u0131yla 4KFilmizlesene&amp;#039;nin Tad\u0131n\u0131 \u00c7\u0131kart.",
+        "fileSize": 12644,
+        "repositoryUrl": "https://github.com/safarxe/CloudStream",
+        "language": "tr",
+        "tvTypes": [
+            "Movie"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.4kfilmizlesene.org&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-62bbd9ca788945a6c84052b110718a9b4aa481528b37ac9122893e6573184f6f"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/safarxe/CloudStream/builds/AnimeciX.cs3",
+        "status": 1,
+        "version": 11,
+        "name": "AnimeciX",
+        "internalName": "AnimeciX",
+        "authors": [
+            "keyiflerolsun",
+            "inatchii",
+            "JustRelaxable",
+            "nikyokki"
+        ],
+        "description": "AnimeciX, animeleri ke\u015ffedebilece\u011finiz ve animeler hakk\u0131nda her \u015feyi \u00f6\u011frenebilece\u011finiz bir payla\u015f\u0131m platformudur.",
+        "fileSize": 24675,
+        "repositoryUrl": "https://github.com/safarxe/CloudStream",
+        "language": "tr",
+        "tvTypes": [
+            "Anime"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=animecix.net&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-d43ee2ecacfeec6e68a7e608dd6acf1b15186f150369ce00ad4f1931092b725e"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/safarxe/CloudStream/builds/AsyaWatch.cs3",
+        "status": 1,
+        "version": 6,
+        "name": "AsyaWatch",
+        "internalName": "AsyaWatch",
+        "authors": [
+            "nikyokki"
+        ],
+        "description": "Asyawatch",
+        "fileSize": 32164,
+        "repositoryUrl": "https://github.com/safarxe/CloudStream",
+        "language": "tr",
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=asyawatch.com&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-738a119dd0a65c5b7052571e522c342f862f333ce01d461edbfcfa315bcf6d93"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/safarxe/CloudStream/builds/BelgeselX.cs3",
+        "status": 1,
+        "version": 6,
+        "name": "BelgeselX",
+        "internalName": "BelgeselX",
+        "authors": [
+            "keyiflerolsun",
+            "JustRelaxable",
+            "nikyokki"
+        ],
+        "description": "En yeni belgeseller, t\u00fcrk\u00e7e altyaz\u0131l\u0131 yada dublaj olarak 1080p kalitesinde HD belgesel izle.",
+        "fileSize": 23321,
+        "repositoryUrl": "https://github.com/safarxe/CloudStream",
+        "language": "tr",
+        "tvTypes": [
+            "Documentary"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=belgeselx.com&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-cee4e36361bad8599887b3bdcaede214c23ff9b4ca7dbf0d680ea143f379cfcf"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/safarxe/CloudStream/builds/CanliTV.cs3",
+        "status": 1,
+        "version": 6,
+        "name": "CanliTV",
+        "internalName": "CanliTV",
+        "authors": [
+            "Adippe",
+            "keyiflerolsun",
+            "nikyokki"
+        ],
+        "description": "Canl\u0131 TV",
+        "fileSize": 19181,
+        "repositoryUrl": "https://github.com/safarxe/CloudStream",
+        "language": "tr",
+        "tvTypes": [
+            "Live"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=tr.canlitv.team&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-bbe929f47b3999c16d019047263df26d6fe97b3c7627c57835146756d3fc1ad6"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/safarxe/CloudStream/builds/CizgiMax.cs3",
+        "status": 1,
+        "version": 7,
+        "name": "CizgiMax",
+        "internalName": "CizgiMax",
+        "authors": [
+            "keyiflerolsun",
+            "nikyokki"
+        ],
+        "description": "\u00c7izgiMax ile \u00c7izgi Film izlemek art\u0131k daha kolay, donmadan full hd ve reklams\u0131z bir sitedir, i\u00e7erisinde 700 den fazla \u00e7izgi film olan, Bu site bu i\u015fi profesyonelce yap\u0131yor.",
+        "fileSize": 21197,
+        "repositoryUrl": "https://github.com/safarxe/CloudStream",
+        "language": "tr",
+        "tvTypes": [
+            "Cartoon"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=cizgimax.online&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-33bf9286b728ff5964ce2d8bb9c5e60993633bb97c2d744ce9209307ceb6ce57"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/safarxe/CloudStream/builds/DDizi.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "DDizi",
+        "internalName": "DDizi",
+        "authors": [
+            "yunus60",
+            "GitLatte",
+            "patr0nq"
+        ],
+        "description": "Ddizi, dizi izle, dizi seyret, ddizi.im - G\u00fcncel ve eski dizileri en iyi g\u00f6r\u00fcnt\u00fc kalitesiyle bulabilece\u011finiz dizi izleme sitesi.",
+        "fileSize": 26801,
+        "repositoryUrl": "https://github.com/safarxe/CloudStream",
+        "language": "tr",
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=ddizi.im&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-be1237452ea47a5888e12aba40b78ccd4c1e561817c533bdd94b4861d8f5ea01"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/safarxe/CloudStream/builds/DiziBox.cs3",
+        "status": 1,
+        "version": 10,
+        "name": "DiziBox",
+        "internalName": "DiziBox",
+        "authors": [
+            "keyiflerolsun",
+            "nikyokki"
+        ],
+        "description": "Yabanc\u0131 Dizi izle, T\u00fcm yabanc\u0131 dizilerin yeni ve eski sezonlar\u0131n\u0131 full hd izleyebilece\u011finiz elit site.",
+        "fileSize": 24942,
+        "repositoryUrl": "https://github.com/safarxe/CloudStream",
+        "language": "tr",
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizibox.de&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-495262ccf8f72f7dcfaf82fa703359b55647b885a0cb218bb31479496e0a7825"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/safarxe/CloudStream/builds/DiziGom.cs3",
+        "status": 1,
+        "version": 9,
+        "name": "DiziGom",
+        "internalName": "DiziGom",
+        "authors": [
+            "nikyokki"
+        ],
+        "description": "T\u00fcrk\u00e7e altyaz\u0131l\u0131 yabanc\u0131 dizi izle, T\u00fcm yabanc\u0131, kore, netflix dizilerin yeni ve eski sezonlar\u0131n\u0131 orijinal dilinde dizigom1 alt yaz\u0131l\u0131 film izleyebilir, sadece t\u00fcrk\u00e7e altyaz\u0131l\u0131 en iyi yabanc\u0131 diziler ve filmler hakk\u0131nda yorum yapabilirsiniz.",
+        "fileSize": 19652,
+        "repositoryUrl": "https://github.com/safarxe/CloudStream",
+        "language": "tr",
+        "tvTypes": [
+            "Movie"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=dizigom1.co&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-79cee81c9687382bdc8b047595bd500ed86b58669b4660ccef46323d24873682"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/safarxe/CloudStream/builds/DiziKorea.cs3",
+        "status": 1,
+        "version": 11,
+        "name": "DiziKorea",
+        "internalName": "DiziKorea",
+        "authors": [
+            "keyiflerolsun",
+            "nikyokki"
+        ],
+        "description": "En G\u00fcncel Kore Dizileri izleme Sitesi",
+        "fileSize": 20772,
+        "repositoryUrl": "https://github.com/safarxe/CloudStream",
+        "language": "tr",
+        "tvTypes": [
+            "AsianDrama"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizikorea.vip&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-5ed610b08c3b5735f9ebeda72cfbf83825296994034d1edfe5fff520e3952409"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/safarxe/CloudStream/builds/Dizilla.cs3",
+        "status": 1,
+        "version": 25,
+        "name": "Dizilla",
+        "internalName": "Dizilla",
+        "authors": [
+            "keyiflerolsun",
+            "nikyokki"
+        ],
+        "description": "Dizilla t\u00fcm yabanc\u0131 dizileri \u00fccretsiz olarak T\u00fcrk\u00e7e Dublaj ve altyaz\u0131l\u0131 se\u00e7enekleri ile 1080P kalite izleyebilece\u011finiz yeni nesil yabanc\u0131 dizi izleme siteniz.",
+        "fileSize": 35835,
+        "repositoryUrl": "https://github.com/safarxe/CloudStream",
+        "language": "tr",
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=dizilla.club&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-7d70ad2e47f04eb237f8ee04df4296db59abe24829c42780c448192d0efdc1bf"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/safarxe/CloudStream/builds/DiziMag.cs3",
+        "status": 1,
+        "version": 18,
+        "name": "DiziMag",
+        "internalName": "DiziMag",
+        "authors": [
+            "nikyokki"
+        ],
+        "description": "En son \u00e7\u0131kan yabanc\u0131 dizi ve filmleri DiziMag fark\u0131yla full hd 1080p kalitede izle. Dizimag Geni\u015f ve g\u00fcncel ar\u015fiviyle dizi ve filmlerin tad\u0131n\u0131 \u00e7\u0131kart\u0131n.",
+        "fileSize": 29435,
+        "repositoryUrl": "https://github.com/safarxe/CloudStream",
+        "language": "tr",
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=dizimag.net&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-2a12ccdb7354025ce4c852d852a965282618432b520f576feef5c65adf3756e5"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/safarxe/CloudStream/builds/DiziMom.cs3",
+        "status": 1,
+        "version": 28,
+        "name": "DiziMom",
+        "internalName": "DiziMom",
+        "authors": [
+            "keyiflerolsun",
+            "nikyokki"
+        ],
+        "description": "Binlerce yerli yabanc\u0131 dizi ar\u015fivi, t\u00fcm sezonlar, kesintisiz b\u00f6l\u00fcmler. Sadece dizi izle, Dizimom heryerde seninle!",
+        "fileSize": 34336,
+        "repositoryUrl": "https://github.com/safarxe/CloudStream",
+        "language": "tr",
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizimom.tv&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-00deb8c67441c169c6c3f93b1bf26700db1a95844dc80747affb1443b8c70a68"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/safarxe/CloudStream/builds/DiziPal.cs3",
+        "status": 1,
+        "version": 47,
+        "name": "DiziPal",
+        "internalName": "DiziPal",
+        "authors": [
+            "keyiflerolsun",
+            "muratcesmecioglu"
+        ],
+        "description": "en yeni dizileri g\u00fcvenli ve h\u0131zl\u0131 \u015fekilde sunar.",
+        "fileSize": 20086,
+        "repositoryUrl": "https://github.com/safarxe/CloudStream",
+        "language": "tr",
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal683.com&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-cc53f8e7603fae232bcd8934715a7cfd0f6a42e63d7f7c11fa5c9c4cd0666468"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/safarxe/CloudStream/builds/DiziYou.cs3",
+        "status": 1,
+        "version": 18,
+        "name": "DiziYou",
+        "internalName": "DiziYou",
+        "authors": [
+            "keyiflerolsun",
+            "nikyokki"
+        ],
+        "description": "Diziyou en kaliteli T\u00fcrk\u00e7e dublaj ve altyaz\u0131l\u0131 yabanc\u0131 dizi izleme sitesidir. G\u00fcncel ve efsanevi dizileri 1080p Full HD kalitede izlemek i\u00e7in hemen t\u0131kla!",
+        "fileSize": 15512,
+        "repositoryUrl": "https://github.com/safarxe/CloudStream",
+        "language": "tr",
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.diziyou.co&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-a614d05aea6dfcc802705e521eb88bb9b635df1464c1a3d48c55da12761dbab0"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/safarxe/CloudStream/builds/DMax.cs3",
+        "status": 1,
+        "version": 2,
+        "name": "DMax",
+        "internalName": "DMax",
+        "authors": [
+            "nikyokki"
+        ],
+        "description": "DMAX dizi ve programlar\u0131n\u0131 takip etmek i\u00e7in ziyaret edin. DMAX dizi ve programlar\u0131n\u0131 tek par\u00e7a ve hd kalitesiyle izleyin.",
+        "fileSize": 14339,
+        "repositoryUrl": "https://github.com/safarxe/CloudStream",
+        "language": "tr",
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "iconUrl": "https://www.dmax.com.tr/favicon.ico",
+        "apiVersion": 1,
+        "fileHash": "sha256-ff9c9a5516068ec1d06d5027ed57cb2f7a2e76adb0c9cc831c63024f9bb0e70f"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/safarxe/CloudStream/builds/FilmIzleIlk.cs3",
+        "status": 1,
+        "version": 6,
+        "name": "FilmIzleIlk",
+        "internalName": "FilmIzleIlk",
+        "authors": [
+            "nikyokki"
+        ],
+        "description": "Filmizleilk.com Yerli ve Yabanc\u0131 en son Film ve Dizileri Full HD 1080p Bluray Tek Part Full izle",
+        "fileSize": 22702,
+        "repositoryUrl": "https://github.com/safarxe/CloudStream",
+        "language": "tr",
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.filmizleilk.com&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-3d3e74246594283ed46f39aa3a40039f5cbe3fd668f468715121ec4d7b6d35d9"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/safarxe/CloudStream/builds/Film\u0130zlesene.cs3",
+        "status": 0,
+        "version": 3,
+        "name": "Film\u0130zlesene",
+        "internalName": "Film\u0130zlesene",
+        "authors": [
+            "nikyokki"
+        ],
+        "description": "Filmizlesene ile h\u0131zl\u0131 film izleme f\u0131rsat\u0131n\u0131 yakala, en yeni ve iyi filmleri Full HD 1080p kalitesiyle online ve bedava izle",
+        "fileSize": 18941,
+        "repositoryUrl": "https://github.com/safarxe/CloudStream",
+        "language": "tr",
+        "tvTypes": [
+            "Movie"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=filmizlesene.plus&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-3e4a185d2f152f73496ead0a4b83ea47fba3f4b213ceb9c2111ab590abbc4a65"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/safarxe/CloudStream/builds/FilmKovasi.cs3",
+        "status": 1,
+        "version": 3,
+        "name": "FilmKovasi",
+        "internalName": "FilmKovasi",
+        "authors": [
+            "nikyokki"
+        ],
+        "description": "Film Kovasi \u26a1 ile en g\u00fcncel ve sorunsuz Full HD Film izle keyfi her yerde seninle! 1080p online film izleme ayr\u0131cal\u0131\u011f\u0131yla Film Kovas\u0131'n\u0131n Tad\u0131n\u0131 \u00c7\u0131kar\u0131n.",
+        "fileSize": 19265,
+        "repositoryUrl": "https://github.com/safarxe/CloudStream",
+        "language": "tr",
+        "tvTypes": [
+            "Movie"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=filmkovasi.tv&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-c8435e8a6ddc264f9982ccacda19b935dc85866b9511a463db0047a2ebdc8f23"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/safarxe/CloudStream/builds/FilmMakinesi.cs3",
+        "status": 1,
+        "version": 25,
+        "name": "FilmMakinesi",
+        "internalName": "FilmMakinesi",
+        "authors": [
+            "keyiflerolsun",
+            "usdogu",
+            "nikyokki"
+        ],
+        "description": "Film Makinesi, en yeni ve en g\u00fcncel filmleri sitemizde full HD kalite fark\u0131 ile izleyebilirsiniz. HD film izle denildi\u011finde akla gelen en kaliteli film izleme sitesi.",
+        "fileSize": 23582,
+        "repositoryUrl": "https://github.com/safarxe/CloudStream",
+        "language": "tr",
+        "tvTypes": [
+            "Movie"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=filmmakinesi.film&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-a23a0fee6c8efa429f139205575df5008fce111186c375bf0d9c65ff2951199c"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/safarxe/CloudStream/builds/FilmModu.cs3",
+        "status": 1,
+        "version": 15,
+        "name": "FilmModu",
+        "internalName": "FilmModu",
+        "authors": [
+            "keyiflerolsun",
+            "nikyokki"
+        ],
+        "description": "Film modun geldiyse y\u00fcksek kalitede en yeni filmleri izle, 1080p izleyebilece\u011finiz reklamsiz film sitesi.",
+        "fileSize": 20546,
+        "repositoryUrl": "https://github.com/safarxe/CloudStream",
+        "language": "tr",
+        "tvTypes": [
+            "Movie"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.filmmodu17.com&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-bcb966d5aadb0178b396b44052c37383d2f971dcd15021aa05255e45d98a547e"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/safarxe/CloudStream/builds/FullHDFilm.cs3",
+        "status": 1,
+        "version": 16,
+        "name": "FullHDFilm",
+        "internalName": "FullHDFilm",
+        "authors": [
+            "keyiflerolsun"
+        ],
+        "description": "Fullhdfilm ile en yeni vizyon filmler Full HD ve kesintisiz film sizlerle. \u00d6zg\u00fcn film ar\u015fivimizle en \u00fcst\u00fcn kaliteli film izle keyfini sunuyoruz.",
+        "fileSize": 20339,
+        "repositoryUrl": "https://github.com/safarxe/CloudStream",
+        "language": "tr",
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=fullhdfilm.pro&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-eb7e221f9b349179550d3c3d4be6d2ae621ece0d43953483c429391ba12dfb05"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/safarxe/CloudStream/builds/FullHDFilm\u0130zlede.cs3",
+        "status": 1,
+        "version": 5,
+        "name": "FullHDFilm\u0130zlede",
+        "internalName": "FullHDFilm\u0130zlede",
+        "authors": [
+            "nikyokki"
+        ],
+        "description": "En g\u00fcncel ve pop\u00fcler filmleri Full HD kalitesinde, T\u00fcrk\u00e7e altyaz\u0131l\u0131 veya T\u00fcrk\u00e7e dublaj se\u00e7enekleriyle izleyebilece\u011finiz tek adres! Sinema tutkunlar\u0131 i\u00e7in en \u00f6zel film deneyimini ya\u015famak i\u00e7in fullhdfilmizlede.net",
+        "fileSize": 17779,
+        "repositoryUrl": "https://github.com/safarxe/CloudStream",
+        "language": "tr",
+        "tvTypes": [
+            "Movie"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=fullhdfilmizlede.net&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-5f8873d15080fa71a24b0a4535fb49f8e2d820a7061582d672a24f23edbebd08"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/safarxe/CloudStream/builds/FullHDFilmizlesene.cs3",
+        "status": 1,
+        "version": 11,
+        "name": "FullHDFilmizlesene",
+        "internalName": "FullHDFilmizlesene",
+        "authors": [
+            "keyiflerolsun",
+            "nikyokki"
+        ],
+        "description": "Sinema zevkini evinize kadar getirdik. T\u00fcrkiye'nin lider Film sitesinde, en yeni filmleri Full HD izleyin.",
+        "fileSize": 39743,
+        "repositoryUrl": "https://github.com/safarxe/CloudStream",
+        "language": "tr",
+        "tvTypes": [
+            "Movie"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.fullhdfilmizlesene.de&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-5d9d173b1b16c085e02cd1038f6557113ed3ccc96e2b6351cff8ae594ad8cd8f"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/safarxe/CloudStream/builds/HDFilmCehennemi.cs3",
+        "status": 1,
+        "version": 36,
+        "name": "HDFilmCehennemi",
+        "internalName": "HDFilmCehennemi",
+        "authors": [
+            "hexated",
+            "keyiflerolsun",
+            "nikyokki"
+        ],
+        "description": "T\u00fcrkiye'nin en h\u0131zl\u0131 hd film izleme sitesi",
+        "fileSize": 30364,
+        "repositoryUrl": "https://github.com/safarxe/CloudStream",
+        "language": "tr",
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.com&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-6004a4c15a67cb290cdf93c332a65ba3debd792fea0a5713a33596c690bef174"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/safarxe/CloudStream/builds/HDFilmCehennemi2.cs3",
+        "status": 1,
+        "version": 7,
+        "name": "HDFilmCehennemi2",
+        "internalName": "HDFilmCehennemi2",
+        "authors": [
+            "nikyokki"
+        ],
+        "description": "Full hd film izleme keyfini hdfilmcehennemi2 ile ya\u015fay\u0131n. T\u00fcrkiyenin en g\u00fcncel y\u00fcksek hd kalitede film izleme sitesi.",
+        "fileSize": 27805,
+        "repositoryUrl": "https://github.com/safarxe/CloudStream",
+        "language": "tr",
+        "tvTypes": [
+            "Movie"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.hdfilmcehennemi2.nl&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-701a5ef58fb87f185bfd951f4d5c206f636c71f322172789cb37c523435045a7"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/safarxe/CloudStream/builds/HDFilmIzle.cs3",
+        "status": 1,
+        "version": 7,
+        "name": "HDFilmIzle",
+        "internalName": "HDFilmIzle",
+        "authors": [
+            "nikyokki"
+        ],
+        "description": "HDFilmizle ile Full HD izle, 1080p kalitede Yerli ve Yabanc\u0131 filmlerle T\u00fcrk\u00e7e dublaj veya Altyaz\u0131 olarak kesintisiz film izlemenin tad\u0131n\u0131 \u00e7\u0131kar\u0131n.",
+        "fileSize": 30988,
+        "repositoryUrl": "https://github.com/safarxe/CloudStream",
+        "language": "tr",
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmizle.to&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-38b66f7ef6b09251cbe548526489884d44fdfa01730c3606c499fffa9377c772"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/safarxe/CloudStream/builds/HDFilmSitesi.cs3",
+        "status": 1,
+        "version": 18,
+        "name": "HDFilmSitesi",
+        "internalName": "HDFilmSitesi",
+        "authors": [
+            "nikyokki"
+        ],
+        "description": "Film izle, Hdfilmsitesi ile Online 1080p ve 4K kalite Full HD Filmlere T\u00fcrk\u00e7e Dublaj ve Altyaz\u0131l\u0131 olarak Reklams\u0131z Kesintisiz HD Film izle.",
+        "fileSize": 22923,
+        "repositoryUrl": "https://github.com/safarxe/CloudStream",
+        "language": "tr",
+        "tvTypes": [
+            "Movie"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmsitesi.net&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-8dd8e490e70474fa06418269a5e0edabf761ce68678a7871dd126e430eb36aea"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/safarxe/CloudStream/builds/InatBox.cs3",
+        "status": 3,
+        "version": 16,
+        "name": "InatBox",
+        "internalName": "InatBox",
+        "authors": [
+            "JustRelaxable",
+            "keyiflerolsun"
+        ],
+        "description": "\u0130natBox cloudstream eklentisidir. Sevdi\u011finiz yay\u0131n platformlar\u0131n\u0131 ve canl\u0131 ma\u00e7lar\u0131 burada bulabilirsiniz.",
+        "fileSize": 35230,
+        "repositoryUrl": "https://github.com/safarxe/CloudStream",
+        "language": "tr",
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Live"
+        ],
+        "iconUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vCp6N1K4bECoYRQD-cisJF2_6V_Hk01ZhDmoPR2JuM8O5qr4MqrPO1munM9cRlleBBSK6odYhLtDBWv4E3vhPhynlmS5hVVtJZShHoGA5REQ8_3v8SIlccTEqzVQu2UJyNYQdJNrKIfWy66RQeT0D-CcmFCbHPz5023H6p2v5fv4NVloZ5Rqo_yGrIY/s320/iNat-Box-App.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-1d20ecb34567fa160a18935c101e547de1df49843fdb4af108360744386e0e8f"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/safarxe/CloudStream/builds/JetFilmizle.cs3",
+        "status": 1,
+        "version": 32,
+        "name": "JetFilmizle",
+        "internalName": "JetFilmizle",
+        "authors": [
+            "keyiflerolsun",
+            "nikyokki"
+        ],
+        "description": "Binlerce Film \u0130zleme Se\u00e7ene\u011fiyle En \u0130yi Film \u0130zleme Sitesi",
+        "fileSize": 27610,
+        "repositoryUrl": "https://github.com/safarxe/CloudStream",
+        "language": "tr",
+        "tvTypes": [
+            "Movie"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://jetfilmizle.de&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-28840899fa97b698b38f6a9d2d2b391474c28933d2cb540282a9a190339e22fb"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/safarxe/CloudStream/builds/KoreanTurk.cs3",
+        "status": 1,
+        "version": 6,
+        "name": "KoreanTurk",
+        "internalName": "KoreanTurk",
+        "authors": [
+            "keyiflerolsun"
+        ],
+        "description": "G\u00fcney Kore sevdal\u0131lar\u0131n\u0131n vazge\u00e7emedi\u011fi ve T\u00fcrkiye'nin en \u00e7ok ziyaret edilen G\u00fcney Kore Portal\u0131; Koreant\u00fcrk'e ho\u015fgeldiniz!",
+        "fileSize": 13224,
+        "repositoryUrl": "https://github.com/safarxe/CloudStream",
+        "language": "tr",
+        "tvTypes": [
+            "AsianDrama"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.koreanturk.com&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-97c347f4a7ed1a148b5eda0592a44b4521eeb617857323df91f4bb75809961ea"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/safarxe/CloudStream/builds/KultFilmler.cs3",
+        "status": 1,
+        "version": 11,
+        "name": "KultFilmler",
+        "internalName": "KultFilmler",
+        "authors": [
+            "keyiflerolsun",
+            "nikyokki"
+        ],
+        "description": "K\u00fclt Filmler \u00f6zenle en iyi filmleri derler ve iyi bir altyaz\u0131l\u0131 film izleme deneyimi sunmay\u0131 ama\u00e7lar",
+        "fileSize": 22122,
+        "repositoryUrl": "https://github.com/safarxe/CloudStream",
+        "language": "tr",
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=kultfilmler.com&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-b173f5e530d5117f9e0fb6e5d36e3ac65cc2726c6d7e5102c8e0d39f58db1923"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/safarxe/CloudStream/builds/powerDizi.cs3",
+        "status": 1,
+        "version": 3,
+        "name": "powerDizi",
+        "internalName": "powerDizi",
+        "authors": [
+            "patr0n"
+        ],
+        "description": "powerDizi",
+        "fileSize": 20507,
+        "repositoryUrl": "https://github.com/safarxe/CloudStream",
+        "language": "tr",
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=tr.canlitv.team&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-fcb3722ca138eb03700b86b51b43943139e0294f89d16ab16239b90dce16509f"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/safarxe/CloudStream/builds/powerSinema.cs3",
+        "status": 1,
+        "version": 3,
+        "name": "powerSinema",
+        "internalName": "powerSinema",
+        "authors": [
+            "patr0n"
+        ],
+        "description": "powerSinema",
+        "fileSize": 20489,
+        "repositoryUrl": "https://github.com/safarxe/CloudStream",
+        "language": "tr",
+        "tvTypes": [
+            "Movie"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=tr.canlitv.team&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-2e637ea633bf40a51ca27f6b10a423614d7e8e8686d306f254817bbd5495a474"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/safarxe/CloudStream/builds/RecTV.cs3",
+        "status": 1,
+        "version": 85,
+        "name": "RecTV",
+        "internalName": "RecTV",
+        "authors": [
+            "keyiflerolsun",
+            "yusiqo",
+            "inatchii",
+            "JustRelaxable",
+            "nikyokki"
+        ],
+        "description": "RecTv APK, T\u00fcrkiye\u2019deki en pop\u00fcler \u00c7evrimi\u00e7i Medya Ak\u0131\u015f platformlar\u0131ndan biridir. Filmlerin, Canl\u0131 Sporlar\u0131n, Web Dizilerinin ve \u00e7ok daha fazlas\u0131n\u0131n keyfini \u00fccretsiz \u00e7\u0131kar\u0131n.",
+        "fileSize": 23806,
+        "repositoryUrl": "https://github.com/safarxe/CloudStream",
+        "language": "tr",
+        "tvTypes": [
+            "Movie",
+            "Live",
+            "TvSeries"
+        ],
+        "iconUrl": "https://rectvapk.cc/wp-content/uploads/2023/02/Rec-TV.webp",
+        "apiVersion": 1,
+        "fileHash": "sha256-2f08b3f4f19a00fb7990694f3afe1b343741db904ed92d148d4065df53ee1a5d"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/safarxe/CloudStream/builds/RoketDizi.cs3",
+        "status": 1,
+        "version": 15,
+        "name": "RoketDizi",
+        "internalName": "RoketDizi",
+        "authors": [
+            "nikyokki"
+        ],
+        "description": "T\u00fcrkiye'nin en tatl\u0131\u015f yabanc\u0131 dizi izleme sitesi. T\u00fcrk\u00e7e dublaj, altyaz\u0131l\u0131, eski ve yeni yabanc\u0131 dizilerin yan\u0131 s\u0131ra kore (asya) dizileri izleyebilirsiniz.",
+        "fileSize": 40717,
+        "repositoryUrl": "https://github.com/safarxe/CloudStream",
+        "language": "tr",
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=roketdizi.co&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-45f139faa782c5fd56ae0677b050dc1fc4ab849c95ace67ad3ece7a7e3f113ee"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/safarxe/CloudStream/builds/SelcukFlix.cs3",
+        "status": 1,
+        "version": 6,
+        "name": "SelcukFlix",
+        "internalName": "SelcukFlix",
+        "authors": [
+            "nikyokki"
+        ],
+        "description": "Selcukflix'te her t\u00fcrden en yeni ve en pop\u00fcler dizi ve filmleri izlemenin keyfini \u00e7\u0131kar\u0131n. Aksiyondan romanti\u011fe, bilim kurgudan dramaya, geni\u015f k\u00fct\u00fcphanemizde herkes i\u00e7in bir \u015fey var.",
+        "fileSize": 32149,
+        "repositoryUrl": "https://github.com/safarxe/CloudStream",
+        "language": "tr",
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=selcukflix.com&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-b005ccb984466070fce22fdfd7a38c9ef4f3e7242bb3dfe497e987b7c6ee8fb1"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/safarxe/CloudStream/builds/SetFilmIzle.cs3",
+        "status": 1,
+        "version": 14,
+        "name": "SetFilmIzle",
+        "internalName": "SetFilmIzle",
+        "authors": [
+            "keyiflerolsun"
+        ],
+        "description": "Setfilmizle sitemizde, donma ya\u015famadan T\u00fcrk\u00e7e dublaj ve altyaz\u0131l\u0131 filmleri ile dizileri muhte\u015fem 1080p full HD kalitesinde izleyebilirsiniz.",
+        "fileSize": 25922,
+        "repositoryUrl": "https://github.com/safarxe/CloudStream",
+        "language": "tr",
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.setfilmizle.de&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-eaaf4e4b40a5d0cd3bf73eee159a4d8e7be981145754ddee65d8fc7a929ff272"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/safarxe/CloudStream/builds/SezonlukDizi.cs3",
+        "status": 1,
+        "version": 9,
+        "name": "SezonlukDizi",
+        "internalName": "SezonlukDizi",
+        "authors": [
+            "keyiflerolsun",
+            "JustRelaxable",
+            "nikyokki"
+        ],
+        "description": "G\u00fcncel ve eski dizileri en iyi g\u00f6r\u00fcnt\u00fc kalitesiyle bulabilece\u011finiz yabanc\u0131 dizi izleme siteniz.",
+        "fileSize": 25461,
+        "repositoryUrl": "https://github.com/safarxe/CloudStream",
+        "language": "tr",
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=sezonlukdizi6.com&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-5429e840b25c586e4d07dc8291bc1cd30511f5dbddac9c779f7d7cc2fe1c635f"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/safarxe/CloudStream/builds/SinemaCX.cs3",
+        "status": 1,
+        "version": 14,
+        "name": "SinemaCX",
+        "internalName": "SinemaCX",
+        "authors": [
+            "keyiflerolsun",
+            "nikyokki"
+        ],
+        "description": "G\u00fcncel ve en iyi yabanc\u0131 filmleri y\u00fcksek g\u00f6r\u00fcnt\u00fc kalitesinde, T\u00fcrk\u00e7e dublaj ve altyaz\u0131 se\u00e7enekleriyle filmleri full izleyin.",
+        "fileSize": 16268,
+        "repositoryUrl": "https://github.com/safarxe/CloudStream",
+        "language": "tr",
+        "tvTypes": [
+            "Movie"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.sinema.cx&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-cfbacc0526491933636623308dd0de8904abc378a6317d78e6d40562c2ba26d4"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/safarxe/CloudStream/builds/SineWix.cs3",
+        "status": 1,
+        "version": 3,
+        "name": "SineWix",
+        "internalName": "SineWix",
+        "authors": [
+            "nikyokki"
+        ],
+        "description": "SineWix | Film - Dizi - Anime \u0130zleme Uygulamas\u0131",
+        "fileSize": 30160,
+        "repositoryUrl": "https://github.com/safarxe/CloudStream",
+        "language": "tr",
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.sinewix.com/&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-c1eb8c939d063e43ff8e8fd03eec66e73f4fb187fa638785d2cc3ed95eeb8e32"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/safarxe/CloudStream/builds/SuperFilmGeldi.cs3",
+        "status": 1,
+        "version": 25,
+        "name": "SuperFilmGeldi",
+        "internalName": "SuperFilmGeldi",
+        "authors": [
+            "keyiflerolsun",
+            "nikyokki"
+        ],
+        "description": "Hd film izliyerek arkada\u015flar\u0131n\u0131zla ve sevdiklerinizle iyi bir vakit ge\u00e7irmek istiyorsan\u0131z a\u00e7\u0131n bir film e\u011flenmeye bak\u0131n. Bilim kurgu filmleri, a\u015fk drama vah\u015fet a\u015fk romantik s\u0131rad\u0131\u015f\u0131 korku filmlerini izle.",
+        "fileSize": 22471,
+        "repositoryUrl": "https://github.com/safarxe/CloudStream",
+        "language": "tr",
+        "tvTypes": [
+            "Movie"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.superfilmgeldi.biz&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-11cc18b43f19eba4913b2c402b679035895a92418f51ca69fceec648d481f63a"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/safarxe/CloudStream/builds/Tafdi.cs3",
+        "status": 0,
+        "version": 3,
+        "name": "Tafdi",
+        "internalName": "Tafdi",
+        "authors": [
+            "nikyokki"
+        ],
+        "description": "T\u00fcrk\u00e7e altyaz\u0131l\u0131 film izle, full hd olarak film izlemenin keyfini \u00e7\u0131kar\u0131n. T\u00fcrkiyenin en b\u00fcy\u00fck film izleme platformu tafdi kalitesiyle sizlerle.",
+        "fileSize": 12617,
+        "repositoryUrl": "https://github.com/safarxe/CloudStream",
+        "language": "tr",
+        "tvTypes": [
+            "Movie"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=tafdi.info&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-43c66949c3d37d48de07c04c5d545c9bb1fae95e0f60ff8c57a4941b6e8c7913"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/safarxe/CloudStream/builds/TLC.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "TLC",
+        "internalName": "TLC",
+        "authors": [
+            "nikyokki"
+        ],
+        "description": "TLC TV dizi ve programlar\u0131n\u0131 takip etmek i\u00e7in ziyaret edin. TLC TV dizi ve programlar\u0131n\u0131 tek par\u00e7a ve hd kalitesiyle izleyin.",
+        "fileSize": 14353,
+        "repositoryUrl": "https://github.com/safarxe/CloudStream",
+        "language": "tr",
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "iconUrl": "https://www.tlctv.com.tr/favicon.ico",
+        "apiVersion": 1,
+        "fileHash": "sha256-abfff834e70502385b2763702b32b2110bce03a71a5b41e63354eeafcfe4f3ec"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/safarxe/CloudStream/builds/TurkAnime.cs3",
+        "status": 1,
+        "version": 4,
+        "name": "TurkAnime",
+        "internalName": "TurkAnime",
+        "authors": [
+            "keyiflerolsun"
+        ],
+        "description": "T\u00fcrk Anime TV - T\u00fcrkiye'nin Online Anime izleme sitesi.",
+        "fileSize": 17422,
+        "repositoryUrl": "https://github.com/safarxe/CloudStream",
+        "language": "tr",
+        "tvTypes": [
+            "Anime"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.turkanime.co&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-6add4297484e29bc0c10fe0e21dda2d67739127c84246d1918f45f333f2265c5"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/safarxe/CloudStream/builds/TvDiziler.cs3",
+        "status": 1,
+        "version": 5,
+        "name": "TvDiziler",
+        "internalName": "TvDiziler",
+        "authors": [
+            "nikyokki"
+        ],
+        "description": "\u00dccretsiz yerli dizi izleme sitesi en pop\u00fcler dizileri tek par\u00e7a hd kalitesiyle ve reklams\u0131z bedava olarak buradan tv dizileri izleyin.",
+        "fileSize": 29048,
+        "repositoryUrl": "https://github.com/safarxe/CloudStream",
+        "language": "tr",
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=tvdiziler.cc&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-91d6ea11af607eb8a633ecc43b21eef33bce6911de1a69820661387c44d65eb1"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/safarxe/CloudStream/builds/UgurFilm.cs3",
+        "status": 1,
+        "version": 6,
+        "name": "UgurFilm",
+        "internalName": "UgurFilm",
+        "authors": [
+            "keyiflerolsun",
+            "nikyokki"
+        ],
+        "description": "Yabanc\u0131 film izle, T\u00fcrk\u00e7e dublaj ve T\u00fcrk\u00e7e altyaz\u0131l\u0131 film se\u00e7enekleriyle 720p ve 1080p HD kalitesinde film izle - U\u011fur Film full hd film izle.",
+        "fileSize": 27370,
+        "repositoryUrl": "https://github.com/safarxe/CloudStream",
+        "language": "tr",
+        "tvTypes": [
+            "Movie"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=ugurfilm7.com&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-bd87bd50a655e273fbf0837184b44be5af46af56299655698e4027ae71498ea2"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/safarxe/CloudStream/builds/vavooSpor.cs3",
+        "status": 1,
+        "version": 2,
+        "name": "vavooSpor",
+        "internalName": "vavooSpor",
+        "authors": [
+            "patr0n"
+        ],
+        "description": "vavooSpor",
+        "fileSize": 20514,
+        "repositoryUrl": "https://github.com/safarxe/CloudStream",
+        "language": "tr",
+        "tvTypes": [
+            "Live"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=tr.canlitv.team&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-59da871ac9f05961623e71a77d1c1993fb86dbaae9462ee6705673365bed0835"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/safarxe/CloudStream/builds/WebteIzle.cs3",
+        "status": 1,
+        "version": 59,
+        "name": "WebteIzle",
+        "internalName": "WebteIzle",
+        "authors": [
+            "keyiflerolsun",
+            "nikyokki"
+        ],
+        "description": "Her t\u00fcrl\u00fc filmi ister dublaj ister altyaz\u0131l\u0131, en kaliteli bir \u015fekilde izleyebilece\u011finiz ar\u015fivi en geni\u015f ger\u00e7ek film izleme siteniz.",
+        "fileSize": 35303,
+        "repositoryUrl": "https://github.com/safarxe/CloudStream",
+        "language": "tr",
+        "tvTypes": [
+            "Movie"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=webteizle2.com&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-cdfa54fcb567d500705525c1c7d2764d1522c751383e3ed2c9b3e6097918e7fc"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/safarxe/CloudStream/builds/WFilm\u0130zle.cs3",
+        "status": 1,
+        "version": 7,
+        "name": "WFilm\u0130zle",
+        "internalName": "WFilm\u0130zle",
+        "authors": [
+            "nikyokki"
+        ],
+        "description": "Aile Filmleri izle, Yerli ve yabanc\u0131 en yeni Aile filmlerini Full HD 1080p g\u00f6r\u00fcnt\u00fc kalitesiyle T\u00fcrk\u00e7e Dublaj ve T\u00fcrk\u00e7e Altyaz\u0131 se\u00e7enekleriyle izleyin.",
+        "fileSize": 17216,
+        "repositoryUrl": "https://github.com/safarxe/CloudStream",
+        "language": "tr",
+        "tvTypes": [
+            "Movie"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=wfilmizle.my&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-df72d0fe9229329d2928182a4b83c64f08cd64333f11561c89153117a3deadab"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/safarxe/CloudStream/builds/XPrime.cs3",
+        "status": 1,
+        "version": 6,
+        "name": "XPrime",
+        "internalName": "XPrime",
+        "authors": [
+            "nikyokki"
+        ],
+        "description": "XPrime.Tv",
+        "fileSize": 31075,
+        "repositoryUrl": "https://github.com/safarxe/CloudStream",
+        "language": "tr",
+        "tvTypes": [
+            "Movie"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=xprime.tv&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-442ad87bc486e3a7e61b75a2dff4b137fd691050c3c7847dcfc9bf59ff182d9f"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/safarxe/CloudStream/builds/YabanciDizi.cs3",
+        "status": 1,
+        "version": 8,
+        "name": "YabanciDizi",
+        "internalName": "YabanciDizi",
+        "authors": [
+            "nikyokki"
+        ],
+        "description": "Son \u00e7\u0131kan yabanc\u0131 dizi ve filmleri yabancidizi' de izle. En yeni yabanc\u0131 film ve diziler, t\u00fcrk\u00e7e altyaz\u0131l\u0131 yada dublaj olarak 1080p kalitesinde hd izle.",
+        "fileSize": 47358,
+        "repositoryUrl": "https://github.com/safarxe/CloudStream",
+        "language": "tr",
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=yabancidizi.tv&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-aa2e240f3299f591252811d63a44983ccfac134748ec15f3ec3504391a500e0c"
+    }
+]

@@ -1,0 +1,8 @@
+{
+  "name": "Safarxe CloudStream",
+  "description": "Safarxe-nin şəxsi CloudStream plugin repository",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/safarxe/CloudStream/builds/plugins.json"
+  ]
+}

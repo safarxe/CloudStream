@@ -1,0 +1,75 @@
+name: CloudStream Derleyici
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.event_name }}-${{ github.ref }}
+  cancel-in-progress: true
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - "**/*.md"
+      - "**/*.yml"
+      - "**/*.jpg"
+      - "**/*.png"
+      - "**/*.py"
+
+jobs:
+  CloudStreamDerleyici:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: "'src' Depo Kontrolü"
+        uses: actions/checkout@v4
+        with:
+          path: "src"
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: "'build' Depo Kontrolü"
+        uses: actions/checkout@v4
+        with:
+          ref: builds
+          path: builds
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Eski Derlemeleri Temizle
+        run: find "$GITHUB_WORKSPACE/builds" -name '*.cs3' -delete
+
+      - name: JDK 17 Ayarla
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: 17
+
+      - name: Android SDK Ayarla
+        uses: android-actions/setup-android@v3
+
+      - name: Eklentileri Derle
+        run: |
+          cd "$GITHUB_WORKSPACE/src"
+          chmod +x gradlew
+          ./gradlew make makePluginsJson
+          cp **/build/*.cs3 "$GITHUB_WORKSPACE/builds"
+          cp build/plugins.json "$GITHUB_WORKSPACE/builds"
+
+      - name: Derlemələri Yüklə
+        run: |
+          cd "$GITHUB_WORKSPACE/builds"
+
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+
+          git add -A
+
+          if git diff --cached --quiet; then
+            echo "Yeni build yoxdur."
+            exit 0
+          fi
+
+          git commit -m "Build: $GITHUB_SHA"
+          git push --force origin HEAD:builds
