@@ -1,8 +1,8 @@
 {
   "name": "Safarxe CloudStream",
-  "description": "Turkish and mixed CloudStream extensions",
+  "description": "Safarxe-nin CloudStream plugin repository",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/refs/heads/builds/plugins.json"
+    "https://raw.githubusercontent.com/safarxe/CloudStream/builds/plugins.json"
   ]
 }
