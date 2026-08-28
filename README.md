@@ -4,26 +4,24 @@ CloudStream için Türkçe içerik sağlayan eklentiler.
 
 ## Kurulum
 
-CloudStream → Ayarlar → Eklentiler → Depo Ekle bölümüne aşağıdaki adresi ekleyin:
+CloudStream → **Ayarlar → Eklentiler → Depo Ekle** bölümüne:
 
-`https://raw.githubusercontent.com/safarxe/CloudStream/main/repo.json`
+```text
+https://raw.githubusercontent.com/safarxe/CloudStream/main/repo.json
+```
 
 ## Build
-
-Linux/macOS:
 
 ```bash
 ./gradlew make makePluginsJson
 ```
 
-Windows:
+Üretilen `.cs3` paketleri `builds` branch'ında yayımlanır.
 
-```bat
-gradlew.bat make makePluginsJson
-```
+## Bağlantılar
 
-Derlenen `.cs3` paketleri `builds` branch'ında yayımlanır.
+- [CloudStream](https://github.com/recloudstream/cloudstream)
+- [CloudStream Plugin Template](https://github.com/cloudstream3/plugin-template)
+- [CloudStream Plugin Repositories](https://github.com/recloudstream/cs-repos)
 
-## Lisans
-
-Bu depo, içerdiği bileşenlerin kendi lisans koşullarına tabidir. Depodaki üçüncü taraf kod ve eklentiler için mevcut lisans ve atıf bildirimleri korunmalıdır.
+> Bu depodaki eklentiler farklı kaynaklardan geliştirilmiş olabilir. İlgili dosyalarda bulunan mevcut atıf ve lisans bildirimleri korunmalıdır.
