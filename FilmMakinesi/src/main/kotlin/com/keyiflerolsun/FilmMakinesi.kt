@@ -30,7 +30,7 @@ import org.jsoup.nodes.Element
 
 
 class FilmMakinesi : MainAPI() {
-    override var mainUrl = "https://filmmakinesi.sh"
+    override var mainUrl = "https://filmmakinesi.to"
     override var name = "FilmMakinesi"
     override val hasMainPage = true
     override var lang = "tr"
